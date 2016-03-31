@@ -1,0 +1,9 @@
+C:\Users\matheus.barros\Desktop\GitHub\BubblesortExercise\BubblesortExercise\bin\Debug\BubblesortExercise.exe.config
+C:\Users\matheus.barros\Desktop\GitHub\BubblesortExercise\BubblesortExercise\bin\Debug\BubblesortExercise.exe
+C:\Users\matheus.barros\Desktop\GitHub\BubblesortExercise\BubblesortExercise\bin\Debug\BubblesortExercise.pdb
+C:\Users\matheus.barros\Desktop\GitHub\BubblesortExercise\BubblesortExercise\obj\Debug\BubblesortExercise.csprojResolveAssemblyReference.cache
+C:\Users\matheus.barros\Desktop\GitHub\BubblesortExercise\BubblesortExercise\obj\Debug\BubblesortExercise.Form1.resources
+C:\Users\matheus.barros\Desktop\GitHub\BubblesortExercise\BubblesortExercise\obj\Debug\BubblesortExercise.Properties.Resources.resources
+C:\Users\matheus.barros\Desktop\GitHub\BubblesortExercise\BubblesortExercise\obj\Debug\BubblesortExercise.csproj.GenerateResource.Cache
+C:\Users\matheus.barros\Desktop\GitHub\BubblesortExercise\BubblesortExercise\obj\Debug\BubblesortExercise.exe
+C:\Users\matheus.barros\Desktop\GitHub\BubblesortExercise\BubblesortExercise\obj\Debug\BubblesortExercise.pdb
